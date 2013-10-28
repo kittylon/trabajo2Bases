@@ -1,6 +1,17 @@
+#Especificacion de archivos java
 *.class
 
-# Package Files #
+#Especificacion del tipo de proyectos, en este caso netbeans
+nbproject/
+
+#Archivos a Ignorar
+*_
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+# Archivos de paquete #
 *.jar
 *.war
 *.ear
